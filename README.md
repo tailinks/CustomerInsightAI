@@ -1,4 +1,4 @@
-#Project Description:
+Project Description:
 CustomerInsightAI is a comprehensive data science project aimed at analyzing e-commerce customer behavior. Utilizing the Kaggle dataset, this project applies machine learning and data analysis techniques to uncover insights into customer purchasing patterns, preferences, and segmentation. Key components include exploratory data analysis (EDA), customer segmentation, predictive modeling for customer lifetime value (CLV), and personalized product recommendations. This project is not only a testament to technical prowess in data science but also showcases an understanding of applying data-driven strategies in e-commerce.
 
 #Project Implementation:
